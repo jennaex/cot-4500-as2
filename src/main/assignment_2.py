@@ -75,3 +75,9 @@ if __name__ == '__main__':
     p2 = p1 + n
     p3 = p2 + o
     print(p3, "\n")
+
+    # Question 4
+    print("no answer", "\n")
+
+    # Question 5
+    print("no answer", "\n")
